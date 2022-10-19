@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.exe
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.deps.json
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.dll
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.pdb
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.dll
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.pdb
+C:\Users\user\Desktop\New folder\C#\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.genruntimeconfig.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.exe
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.deps.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\bin\Debug\netcoreapp3.1\SumofDigits.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\SumofDigits\SumofDigits\obj\Debug\netcoreapp3.1\SumofDigits.genruntimeconfig.cache
